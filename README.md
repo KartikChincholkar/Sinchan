@@ -1,4 +1,4 @@
-# Sinchan
+# Shinchan
 # It draws a Sin Chan cartoon 
 from turtle import *
 #import time
